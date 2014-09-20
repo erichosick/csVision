@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="csVision/spec/util/writeToConSpec.cs">
+    <Files>
+      <File FileName="csVision/Program.cs" Line="10" Column="1" />
+      <File FileName="csVision/messages/interface/iMech.cs" Line="8" Column="2" />
+      <File FileName="csVision/spec/core/numSpec.cs" Line="5" Column="36" />
+      <File FileName="csVision/messages/math/add.cs" Line="30" Column="2" />
+      <File FileName="csVision/spec/math/addSpec.cs" Line="11" Column="4" />
+      <File FileName="csVision/messages/math/sub.cs" Line="23" Column="4" />
+      <File FileName="csVision/spec/math/subSpec.cs" Line="21" Column="6" />
+      <File FileName="csVision/messages/math/mul.cs" Line="30" Column="2" />
+      <File FileName="csVision/spec/math/mulSpec.cs" Line="22" Column="28" />
+      <File FileName="csVision/messages/math/div.cs" Line="30" Column="2" />
+      <File FileName="csVision/spec/math/divSpec.cs" Line="12" Column="28" />
+      <File FileName="csVision/messages/util/writeToCon.cs" Line="16" Column="1" />
+      <File FileName="csVision/spec/util/writeToConSpec.cs" Line="15" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
